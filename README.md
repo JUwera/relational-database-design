@@ -15,7 +15,7 @@ This project demonstrates the design and implementation of a relational database
 ## Technologies Used
 
 - **Database:** Oracle
-- **SQL Development:** Visual Studio Code
+- **SQL Development:** Visual Studio Code, CotEditor
 - **Version Control:** GitHub
 
 ## Database Design
@@ -51,7 +51,7 @@ The database was designed using the provided ERD and includes the following enti
 
 ## Key Learnings
 
-- Developed data modeling skills to design a relational database.
+- Developed data modelling skills to design a relational database.
 - Implemented data integrity through constraints and keys.
 - Gained hands-on experience with Oracle SQL development.
 - Practiced collaborative teamwork to deliver a database project.
@@ -59,10 +59,9 @@ The database was designed using the provided ERD and includes the following enti
 
 ## Future Improvements
 
-- Implement stored procedures and triggers to automate tasks.
 - Enhance queries for advanced data analysis and reporting.
 - Integrate the database with a front-end application for better usability.
-- Optimize queries for performance improvements.
+- Optimise queries for performance improvements.
 
 ## Credits
 
