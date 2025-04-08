@@ -42,3 +42,40 @@ The database was designed using the provided ERD and includes the following enti
 
 ## Project Structure
 
+
+
+## How to Use
+
+1. Clone this repository to your local machine.
+2. Open the SQL scripts in **Visual Studio Code** or your preferred editor.
+3. Run `create_tables.sql` to set up the database structure.
+4. Execute `insert_data.sql` to populate the database with sample data.
+5. Use `queries.sql` to perform data analysis and extract insights.
+6. Refer to `comments.txt` for explanations of design choices and data integrity constraints.
+
+## Key Learnings
+
+- Developed data modeling skills to design a relational database.
+- Implemented data integrity through constraints and keys.
+- Gained hands-on experience with Oracle SQL development.
+- Practiced collaborative teamwork to deliver a database project.
+- Wrote and executed SQL queries for meaningful data analysis.
+
+## Future Improvements
+
+- Implement stored procedures and triggers to automate tasks.
+- Enhance queries for advanced data analysis and reporting.
+- Integrate the database with a front-end application for better usability.
+- Optimize queries for performance improvements.
+
+## Credits
+
+This project was developed as part of a university assignment for the Database Design & Development module.
+
+**Team Members:**
+- Joanne Uwera
+- Tosin Oloyede
+- Islam Aly
+
+
+
