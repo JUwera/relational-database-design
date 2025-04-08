@@ -40,10 +40,6 @@ The database was designed using the provided ERD and includes the following enti
 - Default values for fields like `task.required = 'Y'`.
 - Consistent naming conventions and case sensitivity.
 
-## Project Structure
-
-
-
 ## How to Use
 
 1. Clone this repository to your local machine.
