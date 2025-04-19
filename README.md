@@ -40,15 +40,6 @@ The database was designed using the provided ERD and includes the following enti
 - Default values for fields like `task.required = 'Y'`.
 - Consistent naming conventions and case sensitivity.
 
-## How to Use
-
-1. Clone this repository to your local machine.
-2. Open the SQL scripts in **Visual Studio Code** or your preferred editor.
-3. Run `create_tables.sql` to set up the database structure.
-4. Execute `insert_data.sql` to populate the database with sample data.
-5. Use `queries.sql` to perform data analysis and extract insights.
-6. Refer to `comments.txt` for explanations of design choices and data integrity constraints.
-
 ## Key Learnings
 
 - Developed data modelling skills to design a relational database.
