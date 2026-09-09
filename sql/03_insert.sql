@@ -1,4 +1,4 @@
--- @/Users/joanneuwera/CSY2080/coursework/insert_20.sql
+-- @/Users/joanneuwera/CSY2080/coursework/03_insert.sql
 -- employees
 
 INSERT INTO employees (employee_id, firstname, surname, date_of_birth, mobile_number, town, postcode, email, graduated, grade)
