@@ -1,4 +1,4 @@
--- @/Users/joanneuwera/CSY2080/coursework/constraint_20.sql
+-- @/Users/joanneuwera/CSY2080/coursework/02_constraint.sql
 
 -- primary key constraints 
 
