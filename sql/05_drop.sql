@@ -1,4 +1,4 @@
--- @/Users/joanneuwera/CSY2080/coursework/drop_20.sql
+-- @/Users/joanneuwera/CSY2080/coursework/05_drop.sql
 -- Drop foreign key constraints
 
 ALTER TABLE task_resources 
