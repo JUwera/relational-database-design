@@ -1,4 +1,4 @@
--- @/Users/joanneuwera/CSY2080/coursework/queries_20.sql
+-- @/Users/joanneuwera/CSY2080/coursework/04_queries.sql
 -- simple query
 
 SELECT *
